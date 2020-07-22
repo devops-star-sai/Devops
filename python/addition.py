@@ -7,7 +7,7 @@ def add(x,y):
 	print("the value of y is " + str(y))
 	result = x * y
 	print(result)
-add(7,20)
+add(x,y)
 
 
 z = x+y
