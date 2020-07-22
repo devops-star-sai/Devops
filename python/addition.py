@@ -1,5 +1,5 @@
-x = int(input("enter value of x"))
-y = int(input ("enter value of y"))
+#x = int(input("enter value of x"))
+#y = int(input ("enter value of y"))
 #x=30
 #y=35
 def add(x,y):
